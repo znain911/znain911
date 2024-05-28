@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zulkar Nain</h1>
-<h3 align="center">A passionate frontend developer from Bnagladesh</h3>
+<h3 align="center">PHP | JAVASCRIPT | Python | React Native | Ajax | MySQL | Oracle | Firebase | PostgreSQL | Ubuntu Server | DigitalOcean | AWS</h3>
 
 - 🔭 I’m currently working ct **BNDR**
 
