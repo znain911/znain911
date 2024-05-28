@@ -6,6 +6,7 @@
 - 🔭 Worked in 2 Mobile Application project
 - 🔭 One mobile app published in PLay store
 - 🔭 1 Python(django) project
+- 🔭 Expert in Ubuntu server setup
 - 🌱 Currently learning Data Science and AI with python
 - 🌱 Looking for a job in Python/React Native
 - 📫 Reach me - znain911@gmail.com 
