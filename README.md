@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zulkar Nain</h1>
 <h3 align="center">PHP | JAVASCRIPT | Python | React Native | Ajax | MySQL | Oracle | Firebase | PostgreSQL | Ubuntu Server | DigitalOcean | AWS</h3>
 
-- 🔭 I’m currently working ct **BNDR**
+- 🔭 I’m currently working CT Health Ltd as Speciaist, Web and Application Development
+- 🔭 Worked in more than 7 Web Application project
+- 🔭 Worked in 2 Mobile Application project
+- 🔭 One mobile app published in PLay store
+- 🔭 1 Python(django) project
+- 🌱 Currently learning Data Science and AI with python
+- 🌱 Looking for a job in Python/React Native
+- 📫 Reach me - znain911@gmail.com 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
